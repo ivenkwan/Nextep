@@ -14,3 +14,5 @@
   <li><a href="https://www.generatedata.com/">GenerateData</a>
   <li><a href="https://www.onlinedatagenerator.com/">Online Test Data Generator</a>  
 </il>
+
+<a href="https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks">A gallery of interesting Jupyter Notebooks<a>
