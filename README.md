@@ -14,6 +14,7 @@
   <li><a href="https://mockaroo.com/">Mockaroo</a>
   <li><a href="https://www.generatedata.com/">GenerateData</a>
   <li><a href="https://www.onlinedatagenerator.com/">Online Test Data Generator</a>  
+  <li><a href="https://docs.python-guide.org/">Guide to Python</a>  
 </il>
 
 <a href="https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks">A gallery of interesting Jupyter Notebooks<a>
